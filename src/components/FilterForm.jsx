@@ -82,7 +82,7 @@ const FilterForm = ({ onFilter }) => {
       <div className="flex justify-center">
         <button
           type="submit"
-          className="px-56 py-2 bg-blue-600 text-white rounded-md text-lg" // تم تغيير الحجم هنا إلى text-lg لجعله أكبر
+          className="px-56 py-2 bg-blue-600 text-white rounded-md text-lg"
         >
           Orders
         </button>
